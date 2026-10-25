@@ -84,11 +84,11 @@ class DataScientist:
 
 ```mermaid
 flowchart LR
-    A["Collect<br/><small>SQL · Excel · CSV</small>"] --> B["Clean<br/><small>Pandas · NumPy</small>"]
-    B --> C["Explore<br/><small>Statistics · EDA</small>"]
-    C --> D["Model<br/><small>ML · Deep Learning</small>"]
-    D --> E["Evaluate<br/><small>Metrics · Validation</small>"]
-    E --> F["Communicate<br/><small>Power BI · Tableau</small>"]
+    A["<b>Collect</b><br/>SQL, Excel, CSV"] --> B["<b>Clean</b><br/>Pandas, NumPy"]
+    B --> C["<b>Explore</b><br/>Statistics, EDA"]
+    C --> D["<b>Model</b><br/>ML, Deep Learning"]
+    D --> E["<b>Evaluate</b><br/>Metrics, Validation"]
+    E --> F["<b>Communicate</b><br/>Power BI, Tableau"]
     classDef step fill:#0d1117,stroke:#58e6c1,stroke-width:2px,color:#e6edf3
     class A,B,C,D,E,F step
 ```
@@ -136,8 +136,6 @@ $$P(A \mid B) = \frac{P(B \mid A)\, P(A)}{P(B)}$$
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmishra23&layout=compact&bg_color=0d1117&title_color=58e6c1&text_color=c9d1d9&hide_border=true&border_radius=12" height="165" alt="Top languages">
   <br><br>
   <img src="https://streak-stats.demolab.com?user=shashankmishra23&background=0D1117&ring=58E6C1&fire=FFD166&currStreakLabel=58E6C1&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true&border_radius=12" alt="Contribution streak">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankmishra23&bg_color=0d1117&color=c9d1d9&line=58e6c1&point=ffd166&area=true&area_color=58e6c1&hide_border=true&radius=12" width="100%" alt="Contribution graph">
 </div>
 
 <div align="center">
