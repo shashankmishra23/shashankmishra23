@@ -127,7 +127,7 @@ Click a category to see all my projects in it.
     <td width="50%"><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Asql&type=repositories"><img src="assets/cards/sql.svg" alt="SQL and Databases projects" width="100%"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Apython&type=repositories"><img src="assets/cards/python.svg" alt="Python Data Analysis projects" width="100%"></a></td>
+    <td><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Adata-analysis&type=repositories"><img src="assets/cards/data-analysis.svg" alt="Python Data Analysis projects" width="100%"></a></td>
     <td><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Apower-bi&type=repositories"><img src="assets/cards/power-bi.svg" alt="Power BI Dashboards projects" width="100%"></a></td>
   </tr>
   <tr>

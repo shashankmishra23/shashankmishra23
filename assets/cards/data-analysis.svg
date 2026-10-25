@@ -53,6 +53,6 @@
   <text x="128" y="66" font-size="30" font-weight="700" fill="#ffffff">Python Data Analysis</text>
   <text x="128" y="100" font-size="18" fill="#9fb3c8">Pandas · NumPy · Matplotlib · Seaborn</text>
   <line x1="30" y1="140" x2="570" y2="140" stroke="#ffffff" stroke-opacity="0.1"/>
-  <text x="30" y="178" font-size="16" class="mono" fill="#ffd43b">#python</text>
+  <text x="30" y="178" font-size="16" class="mono" fill="#ffd43b">#data-analysis</text>
   <g class="arrow"><text x="566" y="178" text-anchor="end" font-size="17" font-weight="600" fill="#e6edf3">View projects  →</text></g>
 </svg>
