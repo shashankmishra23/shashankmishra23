@@ -27,11 +27,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - run: cp profile-3d-contrib/*.svg dist/
+      - run: mkdir site && cp dist/*.svg profile-3d-contrib/*.svg site/
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

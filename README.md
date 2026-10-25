@@ -180,7 +180,7 @@ $$P(A \mid B) = \frac{P(B \mid A)\, P(A)}{P(B)}$$
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankmishra23/shashankmishra23/output/profile-night-rainbow.svg">
-  <img src="https://raw.githubusercontent.com/shashankmishra23/shashankmishra23/output/profile-gitblue.svg" alt="3D contribution graph" width="100%">
+  <img src="https://raw.githubusercontent.com/shashankmishra23/shashankmishra23/output/profile-green-animate.svg" alt="3D contribution graph" width="100%">
 </picture>
 
 <img src="https://github-readme-stats.vercel.app/api?username=shashankmishra23&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=0d1117&title_color=58e6c1&icon_color=58e6c1&text_color=c9d1d9&hide_border=true&border_radius=12" height="165" alt="GitHub stats">
