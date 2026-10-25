@@ -2,15 +2,21 @@
 
 <img src="assets/banner.svg" alt="Shashank Mishra, Aspiring Data Scientist" width="100%">
 
-<a href="https://github.com/shashankmishra23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58E6C1&center=true&vCenter=true&width=720&lines=Aspiring+Data+Scientist;Turning+raw+data+into+clear+decisions;Python+%C2%B7+SQL+%C2%B7+Machine+Learning+%C2%B7+Deep+Learning;Open+to+Data+Science+and+Analytics+roles" alt="Typing intro">
+<a href="#projects">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58E6C1&center=true&vCenter=true&width=760&lines=Aspiring+Data+Scientist;Turning+raw+data+into+clear+decisions;Excel+%E2%86%92+SQL+%E2%86%92+Python+%E2%86%92+Power+BI+%E2%86%92+ML;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Statistics;Open+to+Data+Science+and+Analytics+roles" alt="Typing intro">
 </a>
 
 <br>
 
-![Open to work](https://img.shields.io/badge/Open%20to-Data%20Science%20roles-58E6C1?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Based%20in-Lucknow%2C%20India-2F81F7?style=for-the-badge&labelColor=0D1117)
-![Profile views](https://komarev.com/ghpvc/?username=shashankmishra23&label=Profile%20views&color=58e6c1&style=for-the-badge)
+[![About](https://img.shields.io/badge/About%20me-161B22?style=for-the-badge&logo=readme&logoColor=58E6C1)](#about-me)
+[![Toolkit](https://img.shields.io/badge/Toolkit-161B22?style=for-the-badge&logo=python&logoColor=58E6C1)](#toolkit)
+[![Projects](https://img.shields.io/badge/Projects-161B22?style=for-the-badge&logo=jupyter&logoColor=58E6C1)](#projects)
+[![Workflow](https://img.shields.io/badge/Workflow-161B22?style=for-the-badge&logo=databricks&logoColor=58E6C1)](#how-i-work-with-data)
+[![Activity](https://img.shields.io/badge/Activity-161B22?style=for-the-badge&logo=github&logoColor=58E6C1)](#github-activity)
+
+![Open to work](https://img.shields.io/badge/Open%20to-Data%20Science%20roles-58E6C1?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Based%20in-Lucknow%2C%20India-2F81F7?style=flat-square&labelColor=0D1117)
+![Profile views](https://komarev.com/ghpvc/?username=shashankmishra23&label=Profile%20views&color=58e6c1&style=flat-square)
 
 </div>
 
@@ -80,6 +86,60 @@ class DataScientist:
   </tr>
 </table>
 
+<details>
+<summary><b>Explore my skill map</b> (click to open, then zoom and drag)</summary>
+<br>
+
+```mermaid
+mindmap
+  root((Data Science))
+    Programming
+      Python
+      SQL
+    Analysis
+      Pandas
+      NumPy
+      Excel
+    Visualisation
+      Matplotlib
+      Seaborn
+      Power BI
+      Tableau
+    Modelling
+      Machine Learning
+      Deep Learning
+    Maths
+      Statistics
+      Probability
+      Linear Algebra
+      Calculus
+```
+
+</details>
+
+## Projects
+
+Click a category to see all my projects in it.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Aexcel&type=repositories"><img src="assets/cards/excel.svg" alt="Excel Analytics projects" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Asql&type=repositories"><img src="assets/cards/sql.svg" alt="SQL and Databases projects" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Apython&type=repositories"><img src="assets/cards/python.svg" alt="Python Data Analysis projects" width="100%"></a></td>
+    <td><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Apower-bi&type=repositories"><img src="assets/cards/power-bi.svg" alt="Power BI Dashboards projects" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Atableau&type=repositories"><img src="assets/cards/tableau.svg" alt="Tableau Visualisation projects" width="100%"></a></td>
+    <td><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Amachine-learning&type=repositories"><img src="assets/cards/machine-learning.svg" alt="Machine Learning projects" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Adeep-learning&type=repositories"><img src="assets/cards/deep-learning.svg" alt="Deep Learning projects" width="100%"></a></td>
+    <td><a href="https://github.com/search?q=user%3Ashashankmishra23+topic%3Astatistics&type=repositories"><img src="assets/cards/statistics.svg" alt="Statistics and Maths projects" width="100%"></a></td>
+  </tr>
+</table>
+
 ## How I work with data
 
 ```mermaid
@@ -115,37 +175,21 @@ $$P(A \mid B) = \frac{P(B \mid A)\, P(A)}{P(B)}$$
 
 </details>
 
-## Featured project
-
-<a href="https://github.com/shashankmishra23/medicore-hospital-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashankmishra23&repo=medicore-hospital-management&bg_color=0d1117&title_color=58e6c1&icon_color=58e6c1&text_color=c9d1d9&hide_border=true&border_radius=12" alt="MediCore HMS">
-</a>
-
-**MediCore HMS** is a hospital management system with a full relational database and a live analytics dashboard.
-
-- **Data modelling:** designed a 20-table MySQL schema with foreign keys and 4 SQL views
-- **SQL analytics:** aggregate queries power dashboard charts for revenue, appointments and bed occupancy
-- **Data quality:** transactions and row locking keep records consistent; 40 automated tests run on every change
-
-[See screenshots and the demo &rarr;](https://github.com/shashankmishra23/medicore-hospital-management)
-
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankmishra23&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58e6c1&icon_color=58e6c1&text_color=c9d1d9&hide_border=true&border_radius=12" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmishra23&layout=compact&bg_color=0d1117&title_color=58e6c1&text_color=c9d1d9&hide_border=true&border_radius=12" height="165" alt="Top languages">
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=shashankmishra23&background=0D1117&ring=58E6C1&fire=FFD166&currStreakLabel=58E6C1&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true&border_radius=12" alt="Contribution streak">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankmishra23/shashankmishra23/output/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/shashankmishra23/shashankmishra23/output/profile-gitblue.svg" alt="3D contribution graph" width="100%">
+</picture>
 
-<div align="center">
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=shashankmishra23&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=0d1117&title_color=58e6c1&icon_color=58e6c1&text_color=c9d1d9&hide_border=true&border_radius=12" height="165" alt="GitHub stats">
+<img src="https://streak-stats.demolab.com?user=shashankmishra23&background=0D1117&ring=58E6C1&fire=FFD166&currStreakLabel=58E6C1&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true&border_radius=12" height="165" alt="Contribution streak">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankmishra23/shashankmishra23/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/shashankmishra23/shashankmishra23/output/snake.svg" alt="Contribution snake animation" width="100%">
 </picture>
-<br><br>
-
-**Thanks for visiting. If something here is useful to you, a ⭐ on a project means a lot.**
-
 </div>
+
+<img src="assets/footer.svg" alt="Thanks for visiting" width="100%">

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/><stop offset="1" stop-color="#58e6c1"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .a { animation: wave 9s linear infinite; }
+      .b { animation: wave 14s linear infinite reverse; }
+      @keyframes wave { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    </style>
+  </defs>
+  <g class="b" fill="url(#w1)" fill-opacity="0.35">
+    <path d="M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 T1500 70 T1800 70 V150 H0 Z"/>
+  </g>
+  <g class="a" fill="url(#w1)" fill-opacity="0.9">
+    <path d="M0 95 Q150 60 300 95 T600 95 T900 95 T1200 95 T1500 95 T1800 95 V150 H0 Z"/>
+  </g>
+  <text x="600" y="134" text-anchor="middle" font-size="22" font-weight="700" fill="#0d1117">Thanks for visiting · Let's turn data into decisions</text>
+</svg>
